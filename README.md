@@ -32,9 +32,9 @@ the prediction of water production in a well.
 
 SCOPE OF STUDY   
 The focus on this project was to apply a Machine learning approach for 
-prediction of water production. Different machine learning algorithms will be 
-deployed on production data from Volve Field. The best is selected and the 
-developed model will be consequently fine-tuned through hyper 
+prediction of water production. Different machine learning algorithms was 
+deployed on production data from Volve Field. The best was selected and the 
+developed model was consequently fine-tuned through hyper 
 parameterization of controlled variables. These variables include; flowrate, 
 gauge sizes, oil, water and gas production, GOR, BHFP, choke sizes, wellhead 
 temperature and pressure, tubing sizes. 
